@@ -1,0 +1,2 @@
+vless://03f38a25-cc62-4e97-b891-b200a7f7c263@45.156.22.12:443?path=%2F&security=reality&encryption=none&pbk=_dCVvqkJt6gJPWnKCHRWzpVtX0ktZlO94Gf8Yno0LDs&fp=chrome&spx=%2F&type=http&sni=www.samsung.com&sid=6ba85179e30d4fc2#Finland+1+%F0%9F%87%AB%F0%9F%87%AE+%F0%9F%94%B4+t.me%2FNavidVPNs
+vless://03f38a25-cc62-4e97-b891-b200a7f7c263@45.156.22.18:443?path=%2F&security=reality&encryption=none&pbk=_dCVvqkJt6gJPWnKCHRWzpVtX0ktZlO94Gf8Yno0LDs&fp=chrome&spx=%2F&type=http&sni=www.samsung.com&sid=6ba85179e30d4fc2#Finland+2+%F0%9F%87%AB%F0%9F%87%AE+%F0%9F%94%B4+t.me%2FNavidVPNs
